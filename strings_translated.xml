@@ -1,0 +1,5 @@
+<resource>
+    <string name="sample_1">Hola</string>
+    <string name="sample_2">Hola con numero: %1$d</string>
+    <string name="sample_3">Esta es una cadena dinámica: %1$d %1$d</string>
+</resource>

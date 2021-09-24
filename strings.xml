@@ -1,0 +1,5 @@
+<resource>
+    <string name="sample_1">Hello</string>
+    <string name="sample_2">Hello with number : %1$d</string>
+    <string name="sample_3">This is a dynamic string : %1$d %1$d</string>
+</resource>

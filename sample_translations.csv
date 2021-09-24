@@ -1,0 +1,4 @@
+﻿English,Spanish
+Hello,Hola
+Hello with number : %1$d,Hola con numero: %1$d
+This is a dynamic string : %1$d %1$d,Esta es una cadena dinámica: %1$d %1$d
