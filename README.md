@@ -26,10 +26,10 @@ Sample `strings.xml` output file:
 
 
 ## How to use
-- Clone the repository
+- Clone the repository.
 - Paste your original `strings.xml` file at the root level inside the project  to overwrite the existing file.
-- Paste your original csv file which contains the translated strings at the root level inside the project
-- Open the `main.kt` file in the project
+- Paste your original csv file which contains the translated strings at the root level inside the project.
+- Open the `main.kt` file in the project.
 - Change the file name we are passing to the `FileReader` to match your file name as👇
   ```
    val csvReaderBuilder = CSVReaderBuilder(
